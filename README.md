@@ -8,7 +8,7 @@ Endpoint:
 
 ## Constraints followed
 - Uses a basic approach to process HTML (string + regex).
-- Does not use external/internal HTML parsing libraries (no BeautifulSoup, no lxml, etc.).
+- Does not use external/internal HTML parsing libraries.
 
 ## Run
 python3 app.py
